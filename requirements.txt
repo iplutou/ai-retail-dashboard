@@ -4,3 +4,4 @@ plotly
 numpy
 textblob
 scikit-learn
+matplotlib
